@@ -9,11 +9,15 @@ Popunder Script
 
 This script opens a popudner window for virtually any outbound link. The destination URL will open in a new window and the original web page redirects to the link specified in the code.
 
+-----------------------------------------------------------------
+
 Popup Script 
 
 **This type of popup window will not be blocked by any popup blocker.** 
 
 This JavaScript popup code can be used on any web page to display a popup window when a user clicks a page element, such as a standard link, direct link from an ad network, an affiliate link, or banner.
+
+-----------------------------------------------------------------
 
 Slide Out Script
 
